@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OcelotGateway", "OcelotGateway\OcelotGateway.csproj", "{ACEEF1EC-1EB5-49A8-B98B-BD194B434D48}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ServiceA", "ServiceA\ServiceA.csproj", "{2C0A38B7-795C-4079-B946-082A6D5CE407}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ServiceB", "ServiceB\ServiceB.csproj", "{6143033C-9588-4F4F-97A2-7E34909A0D42}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ServiceA2", "ServiceA2\ServiceA2.csproj", "{0BEAE099-C5D6-4B90-9BCC-4B727503F233}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ACEEF1EC-1EB5-49A8-B98B-BD194B434D48}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ACEEF1EC-1EB5-49A8-B98B-BD194B434D48}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ACEEF1EC-1EB5-49A8-B98B-BD194B434D48}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ACEEF1EC-1EB5-49A8-B98B-BD194B434D48}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2C0A38B7-795C-4079-B946-082A6D5CE407}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2C0A38B7-795C-4079-B946-082A6D5CE407}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2C0A38B7-795C-4079-B946-082A6D5CE407}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2C0A38B7-795C-4079-B946-082A6D5CE407}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6143033C-9588-4F4F-97A2-7E34909A0D42}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6143033C-9588-4F4F-97A2-7E34909A0D42}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6143033C-9588-4F4F-97A2-7E34909A0D42}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6143033C-9588-4F4F-97A2-7E34909A0D42}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0BEAE099-C5D6-4B90-9BCC-4B727503F233}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0BEAE099-C5D6-4B90-9BCC-4B727503F233}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0BEAE099-C5D6-4B90-9BCC-4B727503F233}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0BEAE099-C5D6-4B90-9BCC-4B727503F233}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
